@@ -16,3 +16,5 @@
 
 The pull requst link :
 https://github.com/shahd1995913/math-series/pull/1
+
+The link for website : https://shahd1995913.github.io/math-series/
