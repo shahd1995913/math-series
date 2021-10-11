@@ -1,9 +1,9 @@
-# Create a function called fibonacci. 
+# 1. Create a function called fibonacci. 
 
-# The function should have one parameter n. 
+# 2. The function should have one parameter n. 
 
-# The function should return the nth value in the fibonacci series. 
+# 3. The function should return the nth value in the fibonacci series. 
 
-# You may implement the function using recursion or iteration.
+# 4. You may implement the function using recursion or iteration.
 
-#  If you are feeling particularly frisky, do both as separate functions.
+#  5. If you are feeling particularly frisky, do both as separate functions.
