@@ -7,4 +7,4 @@ from math_series.series import fibonacci
 
 
 def test_version1():
-    assert fibonacci()==1
+    assert fibonacci(input)==1

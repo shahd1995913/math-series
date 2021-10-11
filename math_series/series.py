@@ -1,2 +1,2 @@
-def fibonacci():
+def fibonacci(input):
     return 1
