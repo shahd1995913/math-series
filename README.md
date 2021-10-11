@@ -13,3 +13,6 @@
 # 8. Add a third function called sum_series with one required parameter and two optional parameters. 
 # 9. The required parameter will determine which element in the series to print. 
 # 10. The two optional parameters will have default values of 0 and 1 and will determine the first two values for the series to be produced.
+
+The pull requst link :
+https://github.com/shahd1995913/math-series/pull/1
