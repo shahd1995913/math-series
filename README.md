@@ -14,7 +14,3 @@
 # 9. The required parameter will determine which element in the series to print. 
 # 10. The two optional parameters will have default values of 0 and 1 and will determine the first two values for the series to be produced.
 
-The pull requst link :
-https://github.com/shahd1995913/math-series/pull/1
-
-The link for website : https://shahd1995913.github.io/math-series/
